@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h>
-
 int main()
 {
     printf("Hello proekt pro max\n");
+    printf("Hello proekt!\n");
     return 0;
 }
